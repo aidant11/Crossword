@@ -210,11 +210,11 @@ public class CrosswordMaker {
     "mirror", "school", "animal", "camera", "pencil",
     "garden", "pillow", "castle", "tunnel", "summer"
 
-    //"astronomy", "butterflies", "celebration", "determination", 
-    //"electricity", "fascination", "geography", "hippopotamus", 
-    //"imagination", "justification", "kaleidoscope", "landscaping", 
-    //"magnificent", "navigation", "opportunity", "photography", 
-    //"questionnaire", "revolutionary", "sustainability", "transportation"
+    //"lantern", "anchor", "echoes", "meadow", "whistle", 
+    //"cactus", "glacier", "pirate", "compass", "velvet",
+    //"rocket", "goblin", "harbor", "tunnel", "nectar", 
+    //"quiver", "planet", "flavor", "canvas", "saddle"
+
 };
 
 String[] clues = {
@@ -238,6 +238,27 @@ String[] clues = {
     "A king lives here",              // castle
     "Underground passage",            // tunnel
     "Hot season of the year"          // summer
+
+    //"A portable light source often used outdoors",          // lantern  
+    //"Heavy object used to keep a ship in place",            // anchor  
+    //"Repeated sound that bounces off surfaces",             // echoes  
+    //"Open grassy field, often filled with wildflowers",     // meadow  
+    //"High-pitched sound made by blowing air",               // whistle  
+    //"Spiky plant adapted for dry deserts",                  // cactus  
+    //"A massive, slow-moving river of ice",                  // glacier  
+    //"Someone who sails the seas and steals treasure",       // pirate  
+    //"Tool that shows direction using a magnetic needle",    // compass  
+    //"Soft, smooth fabric often used in clothing",           // velvet  
+    //"Vehicle used to travel into space",                    // rocket  
+    //"Mischievous creature found in fantasy stories",        // goblin  
+    //"Safe place along the coast where ships dock",          // harbor  
+    //"Underground passage, often for cars or trains",        // tunnel  
+    //"Sweet liquid that attracts bees and birds",            // nectar  
+    //"Container used to carry arrows",                       // quiver  
+    //"A large object that orbits a star",                    // planet  
+    //"The taste of something you eat or drink",              // flavor  
+    //"Sturdy fabric artists use for painting",               // canvas  
+    //"Seat fastened to a horse’s back for riding"            // saddle
 };
 
     for (int i = 0; i < words.length; i++) {
